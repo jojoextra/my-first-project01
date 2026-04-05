@@ -6,3 +6,5 @@ I am learning GitHub.
 ## Features
 - Simple website
 - Beginner friendly
+
+## How to use
