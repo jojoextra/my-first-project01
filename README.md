@@ -5,3 +5,4 @@ I am learning GitHub.
 
 ## Features
 - Simple website
+- Beginner friendly
