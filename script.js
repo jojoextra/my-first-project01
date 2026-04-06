@@ -12,3 +12,7 @@ document.getElementById("btn").onclick = function() {
 alert("Welcome!");
 
 console.log("User opened page");
+
+button:hover {
+  background-color: yellow;
+}
