@@ -13,3 +13,7 @@ p {
 h2 {
   color: blue;
 }
+
+ul {
+  list-style: square;
+}
