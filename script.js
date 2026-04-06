@@ -10,3 +10,5 @@ document.getElementById("btn").onclick = function() {
 }
 
 alert("Welcome!");
+
+console.log("User opened page");
