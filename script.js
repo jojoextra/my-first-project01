@@ -18,3 +18,5 @@ button:hover {
 }
 
 console.log("Website loaded successfully");
+
+document.body.style.backgroundColor = "lightgray";
