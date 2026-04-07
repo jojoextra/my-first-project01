@@ -21,3 +21,8 @@ ul {
 li {
   margin: 5px;
 }
+
+header {
+  background-color: black;
+  color: white;
+}
