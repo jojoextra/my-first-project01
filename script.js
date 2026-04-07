@@ -16,3 +16,5 @@ console.log("User opened page");
 button:hover {
   background-color: yellow;
 }
+
+console.log("Website loaded successfully");
