@@ -55,3 +55,7 @@ a {
 .card {
   display: inline-block;
 }
+
+.card {
+  width: 45%;
+}
