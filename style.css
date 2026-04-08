@@ -59,3 +59,7 @@ a {
 .card {
   width: 45%;
 }
+
+.card:hover {
+  background-color: lightyellow;
+}
