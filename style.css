@@ -34,3 +34,8 @@ nav {
 a {
   margin-right: 10px;
 }
+
+.container {
+  width: 80%;
+  margin: auto;
+}
